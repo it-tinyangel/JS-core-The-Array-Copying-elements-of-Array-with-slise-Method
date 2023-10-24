@@ -7,6 +7,6 @@ function arrCopy(arr) {
 const arr1 = arrCopy([1, 2, 3]);
 const arr2 = arrCopy([1, 2, 3, [10, 20]]);
 
-// Output the result to the console.
+// Outputing the result to the console.
 console.log(`Copy of arr1:`, arr1);
 console.log(`Copy of arr2:`, arr2);
