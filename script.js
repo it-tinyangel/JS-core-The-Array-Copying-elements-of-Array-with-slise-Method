@@ -1,4 +1,4 @@
-// Function for copying (cloning) an array.
+// Function for copying an elements of array (cloning an array).
 function arrCopy(arr) {
 	return arr.slice();
 }
